@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello, I'm Lindsay.
 
-<!--
-**lindsayreiner/lindsayreiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A learning, Full-Stack Web Developer from UNC Chapel Hill. I’m passionate about developing apps that are beautiful, useful, and intuitive.
 
-Here are some ideas to get you started:
+[![GitHub Followers](https://img.shields.io/github/followers/lindsayreiner?style=social)](https://img.shields.io/github/followers/lindsayreiner?style=social) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔭 I’m currently working on 
+A Gist about the Regular Expression for matching an email address.
+## 🌱 I’m currently learning
+MongoDB.
+## 👩‍💻 My Tech Stack
+- HTML5
+- CSS Enthusiast
+- JavaScript/jQuery
+- BootStrap
+- Node.js
+- mySQL
+- Sequelize
+- 3rd Party API's
+- Express.js
+- Handlebars
+- Git Bash: Clone, Push, Pull, Branch, Merge
+- Heroku
+- 
+## 📫 How to reach me: 
+Email: lindsayreiner@hey.com
+Cell: 954.560.5612
+
+## ⚡ Fun fact:
+
 -->
