@@ -21,7 +21,8 @@ MongoDB.
 - Handlebars
 - Git Bash: Clone, Push, Pull, Branch, Merge
 - Heroku
-- 
+- MongoDB
+
 ## 📫 How to reach me: 
 Email: lindsayreiner@hey.com
 Cell: 954.560.5612
