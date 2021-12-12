@@ -6,6 +6,7 @@ I'm a full-stack web developer, UNC Chapel Hill. I’m passionate about developi
 
 [![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindsayreiner&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindsayreiner)](https://github.com/lindsayreiner/github-readme-stats)
 
 
 
