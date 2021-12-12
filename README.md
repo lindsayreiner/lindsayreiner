@@ -1,13 +1,12 @@
 ### Hello, I'm Lindsay.
 
-A learning, Full-Stack Web Developer from UNC Chapel Hill. I’m passionate about developing apps that are beautiful, useful, and intuitive.
+Full-Stack Web Developer, UNC Chapel Hill. I’m passionate about developing apps that are beautiful, useful, and intuitive.
 
-[![GitHub Followers](https://img.shields.io/github/followers/lindsayreiner?style=social)](https://img.shields.io/github/followers/lindsayreiner?style=social) 
+[![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindsayreiner&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🔭 I’m currently working on 
-A Gist about the Regular Expression for matching an email address.
-## 🌱 I’m currently learning
-MongoDB.
+![Profile views](https://gpvc.arturio.dev/lindsayreiner)
+
+
 ## 👩‍💻 My Tech Stack
 - HTML5
 - CSS Enthusiast
@@ -21,11 +20,12 @@ MongoDB.
 - Handlebars
 - Git Bash: Clone, Push, Pull, Branch, Merge
 - Heroku
-- 
+- MongoDB
+- React
 ## 📫 How to reach me: 
-Email: lindsayreiner@hey.com
-Cell: 954.560.5612
 
-## ⚡ Fun fact:
+- Email: lindsayreiner@hey.com
+- Cell: 954.560.5612
 
--->
+
+
