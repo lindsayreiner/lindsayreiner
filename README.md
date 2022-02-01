@@ -2,7 +2,7 @@
 
 ### Hello, I'm Lindsay.
 
-I'm a full-stack web developer, UNC Chapel Hill. I’m passionate about developing apps that are beautiful, useful, and intuitive.
+I'm a full-stack web developer, recently graduated from the UNC Chapel Hill Coding Bootcamp. I’m passionate about developing apps that are beautiful, useful, and intuitive.
 
 [![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindsayreiner&count_private=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
